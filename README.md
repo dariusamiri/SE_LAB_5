@@ -30,3 +30,34 @@
 - با تغییر آن به (+d\\ \\?-) اعداد منفی نیز به عنوان ورودی، معتبر خواهند بود.
 
 
+# سوال ۳
+
+یک برنچ از main گرفتیم و نام آن را 3 گذاشتیم و مسئله خواسته شده را در این برنچ کدنویسی می‌کنیم.
+
+- ابتدا سناریو خام را طراحی میکنیم.
+
+<img width="1487" alt="Screenshot 1402-09-17 at 23 58 45" src="https://github.com/dariusamiri/SE_LAB_5/assets/59167222/8c0eafe2-8e40-45db-898f-d0a1b4c7a5c5">
+
+
+
+- سپس در کلاس MyStepdefs تابع when را اضافه کردیم. برای این مسئله خواسته شده، از توابع Given و Then که پیشتر برای سناریو جمع، زده شده به صورت مشترک برای این سناریو نیز استفاده می‌کنیم. 
+
+<img width="1271" alt="Screenshot 1402-09-17 at 23 45 46" src="https://github.com/dariusamiri/SE_LAB_5/assets/59167222/f3d691e1-3c65-448d-b82e-92e161b28f33">
+
+
+
+
+- سپس به کلاس Calculator تابع sqdiv را اضافه می‌کنیم و الگوریتم آن را تعریف می‌کنیم که در واقع رادیکال، تقسیم دو عدد را محاسبه می‌کند.  java.lang.Math را نیز import کردیم تا از تایع sqrt آن استفاده کنیم.
+
+ <img width="1271" alt="Screenshot 1402-09-17 at 23 46 03" src="https://github.com/dariusamiri/SE_LAB_5/assets/59167222/971cd3de-ae63-42f4-91eb-e3c1cc2fa471">
+
+
+ - حال ران میکنیم و موفقیت آمیز است.
+
+  <img width="1487" alt="Screenshot 1402-09-18 at 00 06 26" src="https://github.com/dariusamiri/SE_LAB_5/assets/59167222/6e6fab2a-bf6b-4fe5-8933-2ea0f262d47b">
+
+  - در نهایت scenario outline را نیز تعریف میکنیم و تست میگیریم و موفقیت آمیز خواهند بود.
+
+    <img width="1512" alt="Screenshot 1402-09-17 at 23 49 39" src="https://github.com/dariusamiri/SE_LAB_5/assets/59167222/ca321c82-8935-487d-841f-062d2f5d58f8">
+
+
