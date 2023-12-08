@@ -61,3 +61,10 @@
     <img width="1512" alt="Screenshot 1402-09-17 at 23 49 39" src="https://github.com/dariusamiri/SE_LAB_5/assets/59167222/ca321c82-8935-487d-841f-062d2f5d58f8">
 
 
+# سوال ۴
+
+- مشاهده میکنیم تمام سناریو ها از ابتدای آزمایش تا پایان آن، با موفقیت اجرا شده اند.
+
+<img width="1487" alt="Screenshot 1402-09-18 at 00 10 15" src="https://github.com/dariusamiri/SE_LAB_5/assets/59167222/dc1278f9-3d46-4c8a-9520-6619bea0a4da">
+
+
